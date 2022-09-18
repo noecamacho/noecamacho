@@ -2,9 +2,8 @@
 
 <img
   src="https://media.giphy.com/media/B8eEZCeB5PNhPPinuO/giphy-downsized-large.gif"
-  align="right">
-
-
+  align="right"
+  width="300">
 
 <p><em>Full Stack Engineer at <a href="https://www.icapitalnetwork.com/">iCapital</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
