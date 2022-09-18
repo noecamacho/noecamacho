@@ -19,4 +19,16 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noecamacho&langs_count=10&theme=tokyonight&layout=compact" alt="noecamacho :: Top Langs" /></p>
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 1,514 hrs 34 mins
+
+JavaScript         649 hrs         ██████████▓░░░░░░░░░░░░░░   42.85 %
+TypeScript         379 hrs 17 mins ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
+PHP                140 hrs 27 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+HTML               94 hrs 7 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Ruby               73 hrs 4 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+CSS                39 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+```
+
 <!--END_SECTION:waka-->
