@@ -21,13 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1,516 hrs 3 mins
+From: 22 June 2019 - To: 20 September 2022
 
-JavaScript         649 hrs         ██████████▓░░░░░░░░░░░░░░   42.81 %
-TypeScript         379 hrs 17 mins ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-PHP                140 hrs 27 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Total Time: 1,516 hrs 14 mins
+
+JavaScript         649 hrs         ██████████▓░░░░░░░░░░░░░░   42.80 %
+TypeScript         379 hrs 17 mins ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
+PHP                140 hrs 27 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
 HTML               94 hrs 7 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Ruby               74 hrs 15 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Ruby               74 hrs 26 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
 CSS                39 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
