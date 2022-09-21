@@ -1,0 +1,48 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch: # for manual workflow trigger
+  schedule:
+    - cron: '0 0 1 * *' # At 12:00 AM, on day 1 of the month
+
+jobs:
+  update-readme:
+    name: waka-readme-stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: miermontoto/waka-readme-stats@v5
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}          
+          # GitHub access token with Repo scope
+          SHOW_OS: true
+          # Show the list of projects worked on in dev metrics
+          SHOW_PROJECTS: true
+          # Show the Editors used in dev metrics
+          SHOW_EDITORS: true
+          # Show the time zone in the dev metrics
+          SHOW_TIMEZONE: true
+          # Shows the number of commit graph in the dev metrics
+          SHOW_COMMIT: true
+          # Show the Coding language used in dev metrics
+          SHOW_LANGUAGE: true
+          # Show the Total Lines of code written Badge till date
+          SHOW_LINES_OF_CODE: true
+          # Show language or framework used across different repository
+          SHOW_LANGUAGE_PER_REPO: true
+          #
+          SHOW_LOC_CHART: true
+          # show day of week you are most productive
+          SHOW_DAYS_OF_WEEK: true
+          # Shows the current profile views
+          SHOW_PROFILE_VIEWS: false
+          # Shows the short facts
+          SHOW_SHORT_INFO: true
+          # Show stats in your own language
+          LOCALE: 'en'
+          # Git commit with your own name and email
+          COMMIT_BY_ME: false
+          # Repos you don't want to be counted
+          # Show updated date
+          SHOW_UPDATED_DATE: true
+          # Show Total Time you have coded
+          SHOW_TOTAL_CODE_TIME: true
