@@ -5,8 +5,6 @@
   align="right"
   width="300">
 
-<p><em>Full Stack Engineer at <a href="https://www.icapitalnetwork.com/">iCapital</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
 </em></p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/noe-camacho/)](https://www.linkedin.com/in/noe-camacho/)
