@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2 # Checks out your repository under $GITHUB_WORKSPACE, so your workflow can access it
-      - uses: athul/waka-readme@main
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # The WakaTime API key to access your coding stats
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # GitHub token to commit changes to your repository
